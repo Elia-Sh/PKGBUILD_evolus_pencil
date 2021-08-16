@@ -6,16 +6,16 @@ AUR package for evolus pencil (An open-source GUI prototyping tool)
 1. `git clone`
 2. `makepkg -C -f -i`
 
-Or use your favorite AUR helper with the AUR package https://aur.archlinux.org/packages/evolus-pencil-git-dev-branch/
+Or use your favorite AUR helper with the AUR package https://aur.archlinux.org/packages/pencil-git/
 
 
 # How to maintain
 
-Maintenance is done in [AUR git](https://aur.archlinux.org/packages/evolus-pencil-git-dev-branch/)
+Maintenance is done in [AUR git](https://aur.archlinux.org/packages/pencil-git/)
 following [AUR submission guidelines](https://wiki.archlinux.org/title/AUR_submission_guidelines)
 
 ```
-$ git clone ssh://aur@aur.archlinux.org/evolus-pencil-git-dev-branch
+$ git clone ssh://aur@aur.archlinux.org/pencil-git
 
 $ cd evolus-pencil-git-dev-branch/
 
